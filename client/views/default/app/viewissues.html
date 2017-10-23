@@ -9,18 +9,33 @@
         </ion-nav-buttons>
     </ion-nav-bar>
     <ion-content data-comp-id="ionic-content.1">
-        <div data-comp-id="div.1">
+        <div data-comp-id="div.1" ng-repeat="item in data.issuelist">
             <div class="row" data-comp-id="row.1">
                 <div class="col" data-comp-id="column.1">
                     <div data-comp-id="text.1">ID</div>
                 </div>
-                <div class="col" data-comp-id="column.3">
+                <div class="col" data-comp-id="column.2">
                     <div data-comp-id="text.2">Status</div>
                 </div>
             </div>
             <div class="row" data-comp-id="row.2">
-                <div class="col" data-comp-id="column.2">
+                <div class="col" data-comp-id="column.3">
                     <div data-comp-id="text.3">Summary</div>
+                </div>
+            </div>
+        </div>
+        <div data-comp-id="div.2" ng-repeat="item in data.issuelist">
+            <div class="row" data-comp-id="row.3">
+                <div class="col" data-comp-id="column.4">
+                    <div data-comp-id="text.4">ID</div>
+                </div>
+                <div class="col" data-comp-id="column.5">
+                    <div data-comp-id="text.5">Status</div>
+                </div>
+            </div>
+            <div class="row" data-comp-id="row.4">
+                <div class="col" data-comp-id="column.6">
+                    <div data-comp-id="text.6">Summary</div>
                 </div>
             </div>
         </div>
