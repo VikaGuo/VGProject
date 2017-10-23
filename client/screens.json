@@ -33,7 +33,7 @@
       "name": "ViewIssue",
       "sourceScreenId": "app.blank",
       "sourceAppId": "vgproject",
-      "model": "loginconfident"
+      "model": "viewissues"
     }
   ],
   "sourceAppId": "_blank",
