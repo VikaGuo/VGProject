@@ -29,8 +29,8 @@
       "model": "loginconfident"
     },
     {
-      "id": "blank1",
-      "name": "BLANK1",
+      "id": "viewissues",
+      "name": "ViewIssues",
       "sourceScreenId": "app.blank",
       "sourceAppId": "vgproject"
     }
