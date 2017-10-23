@@ -1,7 +1,7 @@
 {
   "id": "app",
   "name": "vgproject",
-  "startScreen": "app.blank",
+  "startScreen": "app.login",
   "screens": [
     {
       "id": "blank",

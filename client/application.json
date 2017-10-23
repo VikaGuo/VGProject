@@ -4,5 +4,11 @@
   "defaultLayout": "phone-portrait",
   "previewToken": "759906fc",
   "uiCommonVersion": "5.2.1",
-  "creatorId": "nscflguo"
+  "creatorId": "nscflguo",
+  "id": "vgproject",
+  "previewImageURL": "/previews/759906fc-vgproject/app/blank.png",
+  "isVersioned": true,
+  "githubRepo": "https://github.com/VikaGuo/VGProject",
+  "creatorName": "Vika Guo",
+  "sdks": []
 }
