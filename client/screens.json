@@ -29,10 +29,11 @@
       "model": "loginconfident"
     },
     {
-      "id": "blank1",
-      "name": "BLANK1",
+      "id": "viewissue",
+      "name": "ViewIssue",
       "sourceScreenId": "app.blank",
-      "sourceAppId": "vgproject"
+      "sourceAppId": "vgproject",
+      "model": "loginconfident"
     }
   ],
   "sourceAppId": "_blank",
