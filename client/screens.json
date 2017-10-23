@@ -32,7 +32,8 @@
       "id": "viewissues",
       "name": "ViewIssues",
       "sourceScreenId": "app.blank",
-      "sourceAppId": "vgproject"
+      "sourceAppId": "vgproject",
+      "model": "viewissues"
     }
   ],
   "sourceAppId": "_blank",
