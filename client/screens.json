@@ -39,6 +39,12 @@
       "name": "ViewIssuesList",
       "folder": true,
       "screens": []
+    },
+    {
+      "id": "viewissueslist",
+      "name": "ViewIssuesList",
+      "folder": true,
+      "screens": []
     }
   ],
   "sourceAppId": "_blank",
