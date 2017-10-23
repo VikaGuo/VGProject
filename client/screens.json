@@ -27,6 +27,12 @@
       "sourceScreenId": "app.login.loginconfident",
       "sourceAppId": "universaltemplates",
       "model": "loginconfident"
+    },
+    {
+      "id": "blank1",
+      "name": "BLANK1",
+      "sourceScreenId": "app.blank",
+      "sourceAppId": "vgproject"
     }
   ],
   "sourceAppId": "_blank",
