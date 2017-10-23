@@ -27,12 +27,6 @@
       "sourceScreenId": "app.login.loginconfident",
       "sourceAppId": "universaltemplates",
       "model": "loginconfident"
-    },
-    {
-      "id": "viewissues",
-      "name": "ViewIssues",
-      "sourceScreenId": "app.blank",
-      "sourceAppId": "vgproject"
     }
   ],
   "sourceAppId": "_blank",
