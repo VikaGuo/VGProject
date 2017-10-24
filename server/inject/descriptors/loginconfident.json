@@ -45,6 +45,11 @@
       },
       "selector": ".button[value=\"Login\"]",
       "control": "action.button"
+    },
+    "isLogin": {
+      "type": "identifier",
+      "selector": ".button",
+      "control": "action.button"
     }
   },
   "connect": []
