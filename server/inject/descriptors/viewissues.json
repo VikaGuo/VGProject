@@ -24,6 +24,30 @@
             "selector": "td",
             "selectIndex": 10,
             "control": "property.innerText"
+          },
+          "status": {
+            "type": "string",
+            "selector": "td",
+            "control": "property.innerText",
+            "selectIndex": 8
+          },
+          "severity": {
+            "type": "string",
+            "selector": "td",
+            "control": "property.innerText",
+            "selectIndex": 7
+          },
+          "assignedto": {
+            "type": "string",
+            "selector": "td",
+            "control": "property.innerText",
+            "selectIndex": 8
+          },
+          "updated": {
+            "type": "string",
+            "selector": "tr",
+            "control": "property.innerText",
+            "selectIndex": 9
           }
         }
       },
