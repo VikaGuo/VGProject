@@ -13,12 +13,6 @@
               "type": "none"
             }
           },
-          "status": {
-            "type": "string",
-            "update": {
-              "type": "none"
-            }
-          },
           "summary": {
             "type": "string",
             "update": {
@@ -29,7 +23,8 @@
       },
       "update": {
         "type": "none"
-      }
+      },
+      "selectorAll": "#buglist tbody tr[bgcolor]"
     }
   },
   "connect": []
