@@ -44,17 +44,10 @@
         }
       },
       "selector": ".button[value=\"Login\"]",
-      "control": "text"
+      "control": "action.button"
     }
   },
-  "connect": [
-    {
-      "match": [],
-      "screens": [
-        "login"
-      ]
-    }
-  ],
+  "connect": [],
   "frameSelector": [
     null
   ]
