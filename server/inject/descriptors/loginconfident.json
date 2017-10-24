@@ -43,9 +43,12 @@
           "type": "string"
         }
       },
-      "selector": ".button",
+      "selector": ".button[value=\"Login\"]",
       "control": "text"
     }
   },
-  "connect": []
+  "connect": [],
+  "frameSelector": [
+    null
+  ]
 }
