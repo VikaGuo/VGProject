@@ -47,7 +47,14 @@
       "control": "text"
     }
   },
-  "connect": [],
+  "connect": [
+    {
+      "match": [],
+      "screens": [
+        "login"
+      ]
+    }
+  ],
   "frameSelector": [
     null
   ]
