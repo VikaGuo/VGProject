@@ -78,15 +78,12 @@
       }
     }
   },
-  "category": {
+  "reportissue": {
     "type": "object",
     "comment": "",
     "properties": {
-      "id": {
-        "type": "string"
-      },
-      "name": {
-        "type": "string"
+      "category": {
+        "type": "select"
       }
     }
   }
