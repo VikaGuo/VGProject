@@ -95,10 +95,7 @@
     "comment": "",
     "properties": {
       "category": {
-        "type": "select",
-        "update": {
-          "type": "none"
-        }
+        "type": "select"
       },
       "save": {
         "type": "action"
