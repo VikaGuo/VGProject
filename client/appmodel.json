@@ -99,6 +99,9 @@
         "update": {
           "type": "none"
         }
+      },
+      "save": {
+        "type": "action"
       }
     }
   }
