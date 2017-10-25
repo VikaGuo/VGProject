@@ -9,6 +9,11 @@
       },
       "selector": "[name=\"category_id\"]",
       "control": "select"
+    },
+    "isReportissue": {
+      "type": "identifier",
+      "selector": ".button[value=\"Submit Report\"]",
+      "control": "property.innerHTML"
     }
   },
   "connect": []
