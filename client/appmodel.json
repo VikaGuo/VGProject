@@ -102,6 +102,12 @@
       },
       "save": {
         "type": "action"
+      },
+      "summary": {
+        "type": "string"
+      },
+      "description": {
+        "type": "string"
       }
     }
   }
