@@ -1,1 +1,22 @@
-{}
+{
+  "category": {
+    "options": [
+      {
+        "label": "1",
+        "value": "aaa"
+      },
+      {
+        "label": "2",
+        "value": "bbb"
+      },
+      {
+        "label": "3",
+        "value": "ccc"
+      },
+      {
+        "label": "4",
+        "value": "ddd"
+      }
+    ]
+  }
+}
