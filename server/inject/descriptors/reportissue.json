@@ -19,6 +19,16 @@
       "type": "action",
       "selector": ".button[value=\"Submit Report\"]",
       "control": "action.button"
+    },
+    "summary": {
+      "type": "string",
+      "selector": "[name=\"summary\"]",
+      "control": "text"
+    },
+    "description": {
+      "type": "string",
+      "selector": "[name=\"description\"]",
+      "control": "text"
     }
   },
   "connect": [
