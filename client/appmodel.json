@@ -84,6 +84,9 @@
     "properties": {
       "category": {
         "type": "select"
+      },
+      "id": {
+        "type": "string"
       }
     }
   }
