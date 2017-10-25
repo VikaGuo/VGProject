@@ -33,7 +33,8 @@
     "cancel": {
       "type": "action",
       "selector": "a",
-      "control": "action.link"
+      "control": "action.link",
+      "selectContains": "View Issues"
     }
   },
   "connect": [
