@@ -69,6 +69,15 @@
               "update": {
                 "type": "none"
               }
+            },
+            "severity": {
+              "type": "string"
+            },
+            "assignedto": {
+              "type": "string"
+            },
+            "updated": {
+              "type": "string"
             }
           }
         },
