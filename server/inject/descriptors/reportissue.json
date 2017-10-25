@@ -29,6 +29,11 @@
       "type": "string",
       "selector": "[name=\"description\"]",
       "control": "text"
+    },
+    "cancel": {
+      "type": "action",
+      "selector": "a",
+      "control": "action.link"
     }
   },
   "connect": [
