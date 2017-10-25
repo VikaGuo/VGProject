@@ -63,7 +63,10 @@
       "selectContains": "Viewing Issues"
     },
     "reportissuelink": {
-      "type": "action"
+      "type": "action",
+      "selector": "a",
+      "selectContains": "Report Issue",
+      "control": "action.link"
     }
   },
   "connect": [
