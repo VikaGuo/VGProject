@@ -40,7 +40,7 @@
       "name": "reportissue",
       "sourceScreenId": "app.blank",
       "sourceAppId": "vgproject",
-      "model": "category"
+      "model": "reportissue"
     }
   ],
   "sourceAppId": "_blank",
