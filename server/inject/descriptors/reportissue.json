@@ -18,7 +18,7 @@
     "save": {
       "type": "action",
       "selector": ".button[value=\"Submit Report\"]",
-      "control": "action.link"
+      "control": "action.button"
     },
     "summary": {
       "type": "string",
