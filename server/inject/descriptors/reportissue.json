@@ -22,8 +22,8 @@
     },
     "summary": {
       "type": "string",
-      "selector": "[name=\"summary\"]",
-      "control": "text"
+      "control": "text",
+      "selector": "[name=\"summary\"]"
     },
     "description": {
       "type": "string",
