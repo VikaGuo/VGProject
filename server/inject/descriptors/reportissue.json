@@ -13,7 +13,7 @@
     "isReportissue": {
       "type": "identifier",
       "selector": ".button[value=\"Submit Report\"]",
-      "control": "property.innerHTML"
+      "control": "action.link"
     }
   },
   "connect": []
