@@ -105,6 +105,9 @@
       },
       "description": {
         "type": "string"
+      },
+      "cancel": {
+        "type": "action"
       }
     }
   }
