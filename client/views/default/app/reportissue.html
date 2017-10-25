@@ -16,6 +16,18 @@
                     <span class="input-label">Decription</span>
                     <textarea rows="8"></textarea>
                 </label>
+                <label class="item" data-comp-id="takePhoto.1"
+                    ng-class="{'item-input item-button-right': style === 'control'}"
+                    take-photo="control">
+                    <span class="input-label" ng-if="style === 'control'">Take Photo</span>
+                    <button class="button button-icon" ng-if="style === 'control'">
+                        <i class="icon positive-icon ion-camera"></i>
+                    </button>
+                    <input disabled="" ng-if="style === 'control'" type="text">
+                    <button class="button button-block button-positive nomargin"
+                        ng-if="style === 'button'">Take Photo</button>
+                    <textarea class="not-visible"></textarea>
+                </label>
             </div>
         </div>
     </ion-content>
