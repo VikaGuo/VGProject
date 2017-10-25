@@ -16,5 +16,14 @@
       "control": "action.link"
     }
   },
-  "connect": []
+  "connect": [
+    {
+      "match": [
+        "isReportissue"
+      ],
+      "screens": [
+        "reportissue"
+      ]
+    }
+  ]
 }
